@@ -7,7 +7,8 @@
   <body>
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
-    <h1>This is my test About Me Page!</h1>
+    <h1>This is my About Me Page!</h1>
+    <p>My name is Sharon and I'm a senior this year at eAchieve.  A fun fact about me is that I was born and raised in Florida, and moved to Wisconsin when I was 10.</p>
     <img src="images/me.jpg" height="250">
   </body>
 </html>
